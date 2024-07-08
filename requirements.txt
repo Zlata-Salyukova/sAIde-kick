@@ -1,5 +1,3 @@
-tk
-pillow
+Pillow
 openai
-screeninfo
 mss
