@@ -1,3 +1,5 @@
+# A vision LLM desktop assistant widget by - @Zlata_Salyukova
+# Free for use to anyone, just credit me! Also, available for a job in the AI space if anyone can help there ^-^. Thank you!
 import os
 import tkinter as tk
 from tkinter import scrolledtext
