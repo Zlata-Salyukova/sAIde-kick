@@ -1,0 +1,5 @@
+tk
+pillow
+openai
+screeninfo
+mss
