@@ -24,7 +24,7 @@ Made for use with Windows, but should work on other Operating Systems (Linux/Mac
 `cd .\sAIde-kick`
 3. Create and activate virtual environment:  
 `python -m venv .venv`  
-`.\venv\Scripts\activate`  
+`.venv\Scripts\activate`  
 4. Install python pip requirements.txt:  
 `pip install -r requirements.txt`  
 5. Add OpenAI API key to system environment variables:  
